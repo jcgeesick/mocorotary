@@ -1,0 +1,557 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="148098960624239367" idplateEnabled="false" 			css="
+				#previewFull {background-color: #666666 !important; width: 730px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 700px !important; width: 730px !important;}
+				#stage2 {width: 730px !important;}
+				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 484px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 730px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 484px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				#thumbnailName {color: #b3b3b3 !important; background-color: inherit;}
+				#largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="3" 
+numRows="3" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Mon Dec 05 2016 20:00:06 GMT-0600"></creationDate>
+			<groupTitle value=""></groupTitle>
+			<contactInfo value="" link=""></contactInfo>
+			<siteTitle value="Rifle Range - 20161001"></siteTitle>
+			<groupDescription value=""></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="700" width="700"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="60" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1480989606248" filename="IMGP3177" tipname="%_tempFileNameIMGP3177%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3177.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3177.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="1_1480989609438" filename="IMGP3180" tipname="%_tempFileNameIMGP3180%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3180.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3180.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="2_1480989609439" filename="IMGP3182" tipname="%_tempFileNameIMGP3182%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3182.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3182.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="3_1480989609440" filename="IMGP3183" tipname="%_tempFileNameIMGP3183%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3183.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3183.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="4_1480989609442" filename="IMGP3189" tipname="%_tempFileNameIMGP3189%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3189.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3189.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="5_1480989609443" filename="IMGP3193" tipname="%_tempFileNameIMGP3193%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3193.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3193.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="6_1480989609444" filename="IMGP3195" tipname="%_tempFileNameIMGP3195%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3195.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3195.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="7_1480989609446" filename="IMGP3197" tipname="%_tempFileNameIMGP3197%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3197.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3197.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="8_1480989609447" filename="IMGP3199" tipname="%_tempFileNameIMGP3199%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3199.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3199.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="9_1480989609449" filename="IMGP3202" tipname="%_tempFileNameIMGP3202%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3202.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3202.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="10_1480989609450" filename="IMGP3204" tipname="%_tempFileNameIMGP3204%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3204.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3204.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="11_1480989609451" filename="IMGP3206" tipname="%_tempFileNameIMGP3206%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3206.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3206.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="12_1480989609453" filename="IMGP3208" tipname="%_tempFileNameIMGP3208%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3208.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3208.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="13_1480989609454" filename="IMGP3217" tipname="%_tempFileNameIMGP3217%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3217.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3217.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="14_1480989609455" filename="IMGP3223" tipname="%_tempFileNameIMGP3223%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3223.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3223.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="15_1480989609457" filename="IMGP3245" tipname="%_tempFileNameIMGP3245%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3245.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3245.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="16_1480989609459" filename="IMGP3247" tipname="%_tempFileNameIMGP3247%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3247.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3247.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="17_1480989609460" filename="IMGP3248" tipname="%_tempFileNameIMGP3248%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3248.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3248.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="18_1480989609461" filename="IMGP3249" tipname="%_tempFileNameIMGP3249%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3249.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3249.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="19_1480989609463" filename="IMGP3250" tipname="%_tempFileNameIMGP3250%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3250.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3250.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="20_1480989609464" filename="IMGP3258" tipname="%_tempFileNameIMGP3258%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3258.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3258.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="21_1480989609465" filename="IMGP3264" tipname="%_tempFileNameIMGP3264%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3264.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3264.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="22_1480989609467" filename="IMGP3266" tipname="%_tempFileNameIMGP3266%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3266.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3266.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="23_1480989609468" filename="IMGP3269" tipname="%_tempFileNameIMGP3269%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3269.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3269.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="24_1480989609470" filename="IMGP3272" tipname="%_tempFileNameIMGP3272%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3272.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3272.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="25_1480989609471" filename="IMGP3273" tipname="%_tempFileNameIMGP3273%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3273.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3273.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="26_1480989609472" filename="IMGP3277" tipname="%_tempFileNameIMGP3277%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3277.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3277.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="27_1480989609473" filename="IMGP3292" tipname="%_tempFileNameIMGP3292%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3292.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3292.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="28_1480989609475" filename="IMGP3295" tipname="%_tempFileNameIMGP3295%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3295.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3295.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="29_1480989609476" filename="IMGP3299" tipname="%_tempFileNameIMGP3299%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3299.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3299.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="30_1480989609477" filename="IMGP3305" tipname="%_tempFileNameIMGP3305%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3305.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3305.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="31_1480989609479" filename="IMGP3308" tipname="%_tempFileNameIMGP3308%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3308.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3308.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="32_1480989609480" filename="IMGP3313" tipname="%_tempFileNameIMGP3313%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3313.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3313.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="33_1480989609482" filename="IMGP3317" tipname="%_tempFileNameIMGP3317%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3317.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3317.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="34_1480989609483" filename="IMGP3320" tipname="%_tempFileNameIMGP3320%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3320.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3320.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="35_1480989609484" filename="IMGP3321" tipname="%_tempFileNameIMGP3321%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3321.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3321.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="36_1480989609486" filename="IMGP3324" tipname="%_tempFileNameIMGP3324%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3324.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3324.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="37_1480989609487" filename="IMGP3326" tipname="%_tempFileNameIMGP3326%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3326.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3326.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="38_1480989609488" filename="IMGP3338" tipname="%_tempFileNameIMGP3338%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3338.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3338.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="39_1480989609490" filename="IMGP3342" tipname="%_tempFileNameIMGP3342%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3342.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3342.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="40_1480989609491" filename="IMGP3346" tipname="%_tempFileNameIMGP3346%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3346.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3346.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="41_1480989609492" filename="IMGP3356" tipname="%_tempFileNameIMGP3356%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3356.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3356.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="42_1480989609494" filename="IMGP3358" tipname="%_tempFileNameIMGP3358%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3358.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3358.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="43_1480989609495" filename="IMGP3359" tipname="%_tempFileNameIMGP3359%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3359.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3359.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="44_1480989609497" filename="IMGP3362" tipname="%_tempFileNameIMGP3362%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3362.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3362.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="45_1480989609498" filename="IMGP3367" tipname="%_tempFileNameIMGP3367%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3367.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3367.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="46_1480989609499" filename="IMGP3372" tipname="%_tempFileNameIMGP3372%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3372.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3372.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="47_1480989609501" filename="IMGP3374" tipname="%_tempFileNameIMGP3374%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3374.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3374.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="48_1480989609502" filename="IMGP3375" tipname="%_tempFileNameIMGP3375%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3375.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3375.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="49_1480989609503" filename="IMGP3402" tipname="%_tempFileNameIMGP3402%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3402.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3402.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="50_1480989609505" filename="IMGP3403" tipname="%_tempFileNameIMGP3403%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3403.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3403.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="51_1480989609506" filename="IMGP3406" tipname="%_tempFileNameIMGP3406%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3406.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3406.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="52_1480989609507" filename="IMGP3412" tipname="%_tempFileNameIMGP3412%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3412.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3412.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="53_1480989609509" filename="IMGP3421" tipname="%_tempFileNameIMGP3421%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3421.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3421.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="54_1480989609510" filename="IMGP3427" tipname="%_tempFileNameIMGP3427%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3427.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3427.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="55_1480989609511" filename="IMGP3435" tipname="%_tempFileNameIMGP3435%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3435.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3435.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="56_1480989609513" filename="IMGP3440" tipname="%_tempFileNameIMGP3440%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3440.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3440.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="57_1480989609514" filename="IMGP3443" tipname="%_tempFileNameIMGP3443%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3443.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3443.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="58_1480989609515" filename="IMGP3445" tipname="%_tempFileNameIMGP3445%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3445.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3445.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="59_1480989609517" filename="IMGP3450" tipname="%_tempFileNameIMGP3450%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/IMGP3450.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/IMGP3450.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="60"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>
