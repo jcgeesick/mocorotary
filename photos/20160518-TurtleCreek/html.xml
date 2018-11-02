@@ -1,0 +1,85 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="147969032383024461" idplateEnabled="false" 			css="
+				#previewFull {background-color: #666666 !important; width: 730px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 700px !important; width: 730px !important;}
+				#stage2 {width: 730px !important;}
+				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 484px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 730px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 484px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				#thumbnailName {color: #b3b3b3 !important; background-color: inherit;}
+				#largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="3" 
+numRows="3" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Sun Nov 20 2016 19:05:23 GMT-0600"></creationDate>
+			<groupTitle value=""></groupTitle>
+			<contactInfo value="" link=""></contactInfo>
+			<siteTitle value="Turtle Creek - 20160518"></siteTitle>
+			<groupDescription value=""></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="700" width="700"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="1" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1479690323833" filename="DSC_0931" tipname="%_tempFileNameDSC_0931%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC_0931.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC_0931.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="1"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>

@@ -1,0 +1,221 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="147967586740704000" idplateEnabled="false" 			css="
+				#previewFull {background-color: #666666 !important; width: 730px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 700px !important; width: 730px !important;}
+				#stage2 {width: 730px !important;}
+				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 484px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 730px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 484px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				#thumbnailName {color: #b3b3b3 !important; background-color: inherit;}
+				#largeName {color: #b3b3b3 !important; background-color: inherit; margin-top: 10px; margin-left: 7px; margin-right: 7px;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="3" 
+numRows="3" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Sun Nov 20 2016 15:04:27 GMT-0600"></creationDate>
+			<groupTitle value=""></groupTitle>
+			<contactInfo value="" link=""></contactInfo>
+			<siteTitle value="Martha&#39;s Kitchen - 20140922"></siteTitle>
+			<groupDescription value=""></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="700" width="700"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="18" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1479675867409" filename="350" tipname="%_tempFileName350%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/350.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/350.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="1_1479675867412" filename="353" tipname="%_tempFileName353%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/353.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/353.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="2_1479675867413" filename="355" tipname="%_tempFileName355%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/355.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/355.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="3_1479675867415" filename="357" tipname="%_tempFileName357%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/357.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/357.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="4_1479675867416" filename="360" tipname="%_tempFileName360%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/360.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/360.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="5_1479675867418" filename="361" tipname="%_tempFileName361%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/361.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/361.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="6_1479675867419" filename="364" tipname="%_tempFileName364%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/364.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/364.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="7_1479675867420" filename="366" tipname="%_tempFileName366%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/366.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/366.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="8_1479675867422" filename="367" tipname="%_tempFileName367%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/367.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/367.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="9_1479675867423" filename="368" tipname="%_tempFileName368%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/368.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/368.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="10_1479675867424" filename="369" tipname="%_tempFileName369%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/369.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/369.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="11_1479675867426" filename="374" tipname="%_tempFileName374%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/374.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/374.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="12_1479675867428" filename="375" tipname="%_tempFileName375%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/375.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/375.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="13_1479675867429" filename="377" tipname="%_tempFileName377%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/377.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/377.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="14_1479675867431" filename="378" tipname="%_tempFileName378%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/378.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/378.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="15_1479675867432" filename="379" tipname="%_tempFileName379%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/379.jpg" height="700" width="464" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/379.jpg" height="129" width="85" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="16_1479675867433" filename="386" tipname="%_tempFileName386%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/386.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/386.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="17_1479675867435" filename="387" tipname="%_tempFileName387%" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/387.jpg" height="464" width="700" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/387.jpg" height="85" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="18"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>
